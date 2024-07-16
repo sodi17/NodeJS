@@ -1,0 +1,11 @@
+{
+  "name": "2-bases",
+  "version": "0.0.1",
+  "description": "Esta es mi primera aplicacion real de Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joselu",
+  "license": "ISC"
+}
