@@ -4,8 +4,8 @@ const { OneDrive, TMP}=process.env;
 
 //console.table( { OneDrive, TMP});
 
-const characters = ['Naruto','Denji','Rudeus'];
+const characters = ['Roxy','Naruto','Denji','Rudeus'];
 
-const [Naruto,,]=characters;
+const [,Naruto,,]=characters;
 
 //console.log(Naruto);
