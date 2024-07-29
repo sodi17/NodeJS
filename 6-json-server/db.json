@@ -1,0 +1,13 @@
+{
+    "posts": [
+    { "id": "1", "title": "json-server", "views": 100 },
+    { "id": "2", "title": "json-server-data", "views": 200 }
+    ],
+    "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "a comment about post 2", "postId": "1" }
+    ],
+    "profile": {
+    "name": "typicode"
+    }
+}
